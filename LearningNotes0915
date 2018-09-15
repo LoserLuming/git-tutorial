@@ -1,0 +1,20 @@
+
+git账号：
+sunlm.ios@gmail.com
+密码为d开头
+
+重温之前看过的前四章内容
+
+
+git init
+git status
+git add
+git commit
+git log
+git log --graph
+git log --pretty=short
+git log -p
+git diff
+git diff HEAD
+git push
+git pull
